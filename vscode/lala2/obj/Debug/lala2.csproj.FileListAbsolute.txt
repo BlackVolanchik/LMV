@@ -1,0 +1,10 @@
+D:\oop\lala2\bin\Debug\lala2.exe.config
+D:\oop\lala2\bin\Debug\lala2.exe
+D:\oop\lala2\bin\Debug\lala2.pdb
+D:\oop\lala2\obj\Debug\lala2.csproj.AssemblyReference.cache
+D:\oop\lala2\obj\Debug\lala2.Form1.resources
+D:\oop\lala2\obj\Debug\lala2.Properties.Resources.resources
+D:\oop\lala2\obj\Debug\lala2.csproj.GenerateResource.cache
+D:\oop\lala2\obj\Debug\lala2.csproj.CoreCompileInputs.cache
+D:\oop\lala2\obj\Debug\lala2.exe
+D:\oop\lala2\obj\Debug\lala2.pdb
